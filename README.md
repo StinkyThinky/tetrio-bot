@@ -1,4 +1,4 @@
-This repo documents my experiments and a learning journey:
+This repo documents my naive experiments and a learning journey:
 
 Summer of 2025, I decided it would be cool to build a tetris bot!
 
