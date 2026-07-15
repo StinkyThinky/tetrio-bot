@@ -9,6 +9,6 @@ I soon came upon Yilinho's bot, and I chose it as it was the only python bot I c
 I spent a few days reading through the code, and found a few areas for improvement.
 
 I also decided that the internal parameter weights were set arbitrarily and could be refined to be better.
-I watched my first machine learning video and decided to develop my own naive approach to machine learning in order to refine these parameters, documented in the files, taking a reinforcement learning approach that ran for a week. My metrics for performance and improvement were dubious so take everything with a grain of salt...
+I watched my first machine learning video and decided to develop my own naive approach to machine learning in order to refine these parameters, documented in the files, taking a reinforcement learning approach that ran for a week. During training I often noticed the bot often took a liking to high board height and taking greedy Tspins. I ended up with a bot that I think did indeed "improve", though my metrics for performance and improvement were dubious so take everything with a grain of salt...
 
-I know there are many improvements to be made and I plan to redo this entirely!
+Today, I know there are many improvements to my method to be made and I plan to build my own bot from scratch!
