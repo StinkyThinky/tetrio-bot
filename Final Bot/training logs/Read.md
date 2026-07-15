@@ -1,1 +1,1 @@
-I didn't upload the actual files as in total there is 500MB of the same text over and over.
+These are just screenshots of the training files, the actual ones I have stored are over 500MB, and video may be posted at a later date.
