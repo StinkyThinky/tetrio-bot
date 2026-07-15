@@ -9,9 +9,9 @@ I soon came upon Yilinho's bot, and I chose it as it was the only python bot I c
 I spent a few days reading through the code, and found areas for improvement.
 
 Changes:
-I was working on Mac, and many libraries used weren't supported or were just outdated, so I created my own code for video processing, though still using the existing structure. 
-Implemented J/L spins, as well as adding more cases for Z/S spins. 
-My tetrio was also quite laggy so I switched to Jstris and downloaded Ultra so it can be played offline and have no lag. 
+- Many libraries used weren't supported on Mac or were just outdated, so I created my own code for video processing, though still used the existing structure. 
+- Implemented J/L spins, as well as adding more cases for Z/S spins. 
+- My tetrio was also quite laggy so I switched to Jstris and downloaded Ultra so it can be played offline and have no lag. 
 
 I also decided that the internal parameter weights were set arbitrarily and could be refined to be better.
 I watched 1 machine learning video and naively decided that I could develop my own approach to machine learning in order to refine these parameters. In hindsight, I basically created my own bootleg reinforcement learning approach. During training I often noticed the bot took a liking to high board height and taking greedy Tspins. I ended up with a bot that I think indeed "improved", though my metrics for performance and improvement were dubious so take this entire project with a grain of salt...
