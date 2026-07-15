@@ -6,7 +6,7 @@ Eventually, I realised the task I gave myself was a bit too advanced at the time
 I soon came upon Yilinho's bot, and I chose it as it was the only python bot I could find at the time that played tetris to an acceptable level. 
 I spent a few days reading through the code, and decided to add in some missing spins from the Tetris SRS system that would score even more points in competitive play.
 
-After that was done, I decided that the parameter weights were set quite arbitrarily and could be refined.
-I watched 1 machine learning video and decided to develop my own naive approach to machine learning, documented in the files.
+I also decided that the internal parameter weights were set arbitrarily and could be refined to be better.
+I watched my first machine learning video and decided to develop my own naive approach to machine learning in order to refine these parameters, documented in the files, taking a reinforcement learning approach that ran for a week. My metrics for performance and improvement were dubious so take everything with a grain of salt...
 
 Now that I'm 1 year older, I know there are many improvements to be made and I plan to redo this entirely!
